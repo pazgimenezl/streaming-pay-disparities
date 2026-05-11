@@ -89,4 +89,4 @@ The music industry conversation is often dominated by platform vs. label debates
 
 I'm a data analytics student (graduating April 2027) with a focus on the music industry. I'm interested in the intersection of data, streaming economics, and artist success — building toward a career in music analytics at companies like Spotify, Apple Music, or major labels.
 
-📎 [[LinkedIn](https://www.linkedin.com/in/maria-paz-gimenez-lopez-a9a068367/)](#) | 📊 [[Tableau Public](https://public.tableau.com/app/profile/maria.gimenez.lopez/vizzes)](#) | 🐙 [GitHub](https://github.com)
+📎 [LinkedIn](https://www.linkedin.com/in/maria-paz-gimenez-lopez-a9a068367/) | 📊 [Tableau Public](https://public.tableau.com/app/profile/maria.gimenez.lopez/vizzes) | 🐙 [GitHub](https://github.com)
