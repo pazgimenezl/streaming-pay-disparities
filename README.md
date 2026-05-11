@@ -27,7 +27,6 @@ This project breaks down the economics of music streaming — where the money ac
 streaming-pay-disparities/
 │
 ├── data/
-│   ├── raw/                        # Original datasets (unmodified)
 │   └── cleaned/
 │       └── streaming_payouts.xlsx  # Cleaned dataset with artist tier, genre, label status
 │
