@@ -1,5 +1,3 @@
-# streaming-pay-disparities
-Analyzing the gap between streaming platform revenue and artist earnings — using Excel, SQL, Tableau, and Python.
 # Streaming vs Artist Pay Disparities
 ### A data analytics project by Paz | Business Intelligence & Data Analytics
 
