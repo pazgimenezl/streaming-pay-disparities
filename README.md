@@ -78,8 +78,6 @@ streaming-pay-disparities/
 
 ![Stream Concentration Curve](charts/04_stream_concentration_curve.png)
 
-Why This Matters
-
 1. **Platform Payout Comparison** — per-stream rates across Spotify, Apple Music, Tidal, YouTube Music
 2. **Artist Tier Breakdown** — how stream count tier affects effective payout rate
 3. **Genre Disparity Map** — average streams and earnings by genre
