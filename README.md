@@ -70,6 +70,16 @@ streaming-pay-disparities/
 
 *(Tableau Public dashboard — link coming soon)*
 
+![Top 15 Artists by Streams](charts/01_top15_artists_by_streams.png)
+
+![Earnings Distribution by Tier](charts/02_earnings_by_tier_boxplot.png)
+
+![Streams Needed for Minimum Wage by Deal Type](charts/03_streams_for_min_wage_by_deal.png)
+
+![Stream Concentration Curve](charts/04_stream_concentration_curve.png)
+
+Why This Matters
+
 1. **Platform Payout Comparison** — per-stream rates across Spotify, Apple Music, Tidal, YouTube Music
 2. **Artist Tier Breakdown** — how stream count tier affects effective payout rate
 3. **Genre Disparity Map** — average streams and earnings by genre
